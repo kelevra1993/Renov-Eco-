@@ -1,0 +1,33 @@
+CREATE DATABASE renovecoplus ;
+
+USE renovecoplus ;
+
+GRANT ALL PRIVILEGES ON coms.* TO 'renovecoplus'@'localhost' IDENTIFIED BY 'renovecoplus' ;
+
+CREATE TABLE coms ( id INT(4) NOT NULL AUTO_INCREMENT,
+  nom TEXT NOT NULL,
+  prenom TEXT NOT NULL,
+  tel INT(10) NOT NULL,
+  home TEXT NOT NULL,
+  addm TEXT NOT NULL,
+  quality TEXT NOT NULL,
+  comment TEXT NOT NULL,
+  Visibility INT(1) NOT NULL,
+  PRIMARY KEY (id)) ;
+  
+ DROP TABLES coms ;
+ 
+  SELECT * FROM coms ;
+  SHOW COLUMNS FROM coms ;
+  
+  CREATE TABLE admins ( id INT(4) NOT NULL AUTO_INCREMENT,
+  username TEXT NOT NULL,
+  password TEXT NOT NULL,
+  PRIMARY KEY (id)) ;
+  
+  SELECT * FROM admins ;
+  
+  DROP TABLES admins ;
+ 
+INSERT INTO admins( username, password  ) VALUES (
+'robert','kelevra');
