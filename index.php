@@ -37,7 +37,6 @@
 	<p>
 	Adresse : 10 avenue Emile Aillaud 
 	</p>
-	#
 	<p>
 	Code Postal :91350 GRIGNY
 	</p>
