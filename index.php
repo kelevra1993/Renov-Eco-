@@ -38,6 +38,7 @@ here we just modify this file
 	<p>
 	Adresse : 10 avenue Emile Aillaud 
 	</p>
+	this is the new feature branch modification
 	<p>
 	Code Postal :91350 GRIGNY
 	</p>
