@@ -36,12 +36,25 @@
 here we just modify this file
 <div class="information-bar">
 	<p>
+	let us remind ourselves of what changed
+	let us remind ourselves of what changed
+	let us remind ourselves of what changed
+	let us remind ourselves of what changed
 	Adresse : 10 avenue Emile Aillaud 
 	</p>
+	let us remind ourselves of what changed
+	let us remind ourselves of what changed
+	let us remind ourselves of what changed
 	this is the new feature branch modification
 	<p>
+	let us remind ourselves of what changed
+	let us remind ourselves of what changed
+	let us remind ourselves of what changed
 	Code Postal :91350 GRIGNY
 	</p>
+	let us remind ourselves of what changed
+	let us remind ourselves of what changed
+	let us remind ourselves of what changed
 	<p>
 	Tel : 06.64.43.41.55
 	</p>
